@@ -1,0 +1,5 @@
+2026-11-23 19:31:58,307 - WARNING - Réservation refusée pour '' (2 places) : Nom du client requis.
+2026-11-23 19:31:58,308 - INFO - Réservation n°1 confirmée pour Alice (3 places).
+2026-11-23 19:31:58,309 - WARNING - Réservation refusée pour 'Bob' (4 places) : Capacité dépassée. Réservation placée en file d'attente (n°2).
+2026-11-23 19:31:58,309 - INFO - Réservation n°1 annulée.
+2026-11-23 19:31:58,310 - INFO - Réservation n°2 confirmée depuis la file d'attente.

@@ -1,0 +1,2 @@
+2026-11-23 19:27:37,217 - ERROR - SoldeInsuffisantException : Solde insuffisant pour ce retrait.
+2026-11-23 19:27:37,218 - ERROR - MontantNegatifException : Le montant doit être strictement positif.
